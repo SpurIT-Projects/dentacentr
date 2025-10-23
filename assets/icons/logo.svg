@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="48" fill="#00a3e0" opacity="0.1"/>
+  
+  <!-- Tooth shape -->
+  <path d="M50 25 C35 25 30 35 30 45 C30 55 32 65 35 70 C38 75 42 78 45 78 C47 78 48 76 48 73 L48 50 C48 48 49 47 50 47 C51 47 52 48 52 50 L52 73 C52 76 53 78 55 78 C58 78 62 75 65 70 C68 65 70 55 70 45 C70 35 65 25 50 25 Z" 
+        fill="#00a3e0" stroke="#0088c2" stroke-width="1.5"/>
+  
+  <!-- Shine effect -->
+  <ellipse cx="42" cy="38" rx="6" ry="10" fill="white" opacity="0.4"/>
+  
+  <!-- Cross symbol for medical -->
+  <g transform="translate(65, 30)">
+    <rect x="3" y="0" width="4" height="14" rx="2" fill="#51cf66"/>
+    <rect x="0" y="3" width="10" height="4" rx="2" fill="#51cf66"/>
+  </g>
+</svg>

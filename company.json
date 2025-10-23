@@ -1,0 +1,58 @@
+{
+  "full_name": "Общество с ограниченной ответственностью «ЮО Дентал»",
+  "short_name": "ООО «ЮО Дентал»",
+  "UNP": "191302453",
+  "registration_date": "07.05.2010",
+  "registration_authority": "Минский городской исполнительный комитет",
+  "license": {
+    "number": "М-6692",
+    "validity": "10 лет",
+    "issuing_authority": "Министерство здравоохранения Республики Беларусь"
+  },
+  "address": {
+    "legal": "220013, г. Минск, ул. Кульман, д. 1/3-5",
+    "physical": "г. Минск, ул. Якуба Коласа, д. 1"
+  },
+  "contacts": {
+    "phones": [
+      "+375 (17) 338-45-92",
+      "+375 (29) 193-45-92",
+      "+375 (29) 561-45-92"
+    ],
+    "emails": [
+      "oooyoudental@gmail.com",
+      "stomdental@tut.by"
+    ]
+  },
+  "working_hours": {
+    "monday_friday": "9:00-21:00",
+    "saturday": "По записи",
+    "sunday": "Выходной"
+  },
+  "years_in_business": 15,
+  "established_year": 2010,
+  "metro_station": "Якуба Коласа",
+  "parking": true,
+  "verified_sources": [
+    {
+      "source": "kartoteka.by",
+      "url": "https://kartoteka.by/unp-191302453",
+      "verified_date": "2025-10-23"
+    },
+    {
+      "source": "legat.by",
+      "url": "https://legat.by/?entity=191302453",
+      "verified_date": "2025-10-23"
+    },
+    {
+      "source": "normativka.by",
+      "url": "https://normativka.by/lib/unp/191302453",
+      "verified_date": "2025-10-23"
+    },
+    {
+      "source": "Official website",
+      "url": "https://dentacentr.by/kontakty/",
+      "verified_date": "2025-10-23"
+    }
+  ]
+}
